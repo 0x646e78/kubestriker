@@ -1,5 +1,6 @@
 import sys
 import getpass
+import readline
 import requests
 import yaml
 from pyfiglet import Figlet
